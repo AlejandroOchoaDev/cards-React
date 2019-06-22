@@ -1,0 +1,16 @@
+.customCard{
+  box-shadow: 0 23px 20px -20px rgba(115,162,208,.1), 0 0 15px rgba(115,162,208,.06);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border-radius: .35rem;
+}
+
+.imgPet{
+  vertical-align: middle;
+  border-style: none;
+}
